@@ -136,6 +136,6 @@ python语言中的类名、对想名、方法名和变量名等，统称为“**
 format() ：该函数把字符串当成了一个模版，通过传入的参数进行格式化，并且使用大括号{}作为特殊字符代替%
 
 ## 2.6 运算符和表达式
-![1](//image//1.jpeg)
-![2](//image//2.jpeg)
-![3](//image//3.jpeg)
+![](https://raw.githubusercontent.com/aymanajal/picture-bed/main/1.jpeg)
+![](https://raw.githubusercontent.com/aymanajal/picture-bed/main/2.jpeg)
+![](https://raw.githubusercontent.com/aymanajal/picture-bed/main/3.jpeg)
